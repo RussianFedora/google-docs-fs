@@ -39,7 +39,7 @@ python ./setup.py install \
     --prefix="%{_prefix}" \
     --root="%{buildroot}"
 
-chmod 755 %{buildroot}%{python_sitelib}/googledocsfs/*.py*
+chmod 755 %{buildroot}%{python_sitelib}/googledocsfs/g*.py
 
 
 %files
