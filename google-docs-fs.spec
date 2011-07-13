@@ -1,4 +1,4 @@
-Summary:	A filesystem to access Google Docs using any computer
+Summary:	A file system to access Google Docs using any computer
 Name:		google-docs-fs
 Version:	1.0
 Release:	0.1.rc1%{?dist}.R
@@ -22,7 +22,7 @@ file system. Combine the portability of Google Docs with the flexibility and
 power of using the office suite of your choice.
 
 This will allow you to mount your Google Docs account as you would a normal
-filesystem. You will then be able to use it as if it were a file system on
+file system. You will then be able to use it as if it were a file system on
 your hard disk, with all operations being transmitted seamlessly to Google
 Docs.
 
