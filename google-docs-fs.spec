@@ -6,7 +6,7 @@ Release:	0.1.rc1%{?dist}.R
 License:	GPLv2
 Url:		http://code.google.com/p/google-docs-fs
 Group:		System Environment/Base
-Source0:	http://google-docs-fs.googlecode.com/files/%{name}-1.0rc1.tar.bz2
+Source0:	http://google-docs-fs.googlecode.com/files/%{name}-1.0rc1.tar.gz
 
 BuildRequires:	fuse-devel
 BuildRequires:	python-devel
