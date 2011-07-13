@@ -52,5 +52,5 @@ chmod 755 %{buildroot}%{python_sitelib}/googledocsfs/g*.py
 
 
 %changelog
-* Wed Jul 13 2011 Arkady L. Shane <ashejn@yandex-team.ru> 1.0-0.1.rc1
+* Wed Jul 13 2011 Arkady L. Shane <ashejn@yandex-team.ru> 1.0-0.1.rc1.R
 - initial version based on 1.0rc1
