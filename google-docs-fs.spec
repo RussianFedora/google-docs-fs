@@ -10,6 +10,8 @@ Source0:	http://google-docs-fs.googlecode.com/files/%{name}-1.0rc1.tar.bz2
 
 BuildRequires:	fuse-devel
 BuildRequires:	python-devel
+Requires:	fuse-python
+Requires:	python-gdata
 
 BuildArch:	noarch
 
